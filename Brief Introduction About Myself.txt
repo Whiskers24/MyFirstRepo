@@ -1,0 +1,2 @@
+Hello, this is my introduction file. My name is Divine Addae and I am a student on ALX Pathfinder. While not busy coding, I work as a part-time accounts officer and enjoy blogging and playing tennis.
+I find the idea of version control really intriguing and I look forward to using Git hub to get learning how best I can create a controlled version of any software or code I receive, safely without destroying the orignial data.
