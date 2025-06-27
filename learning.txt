@@ -1,0 +1,2 @@
+
+I’ve learned how to use Git and GitHub to manage my code. Creating repositories, cloning, committing, and pushing changes have given me confidence in working with version control. I now understand how collaboration works through branches and pull requests.
